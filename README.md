@@ -42,7 +42,8 @@ _Con el programa descomprimido, se va a encontrar una carpeta **practicAtnonioMa
 
 _Al abrir la aplicación se encontrará con la siguiente pantalla:_
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/8f82b801-36c9-4ad4-8610-1352b46da4cd)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/c8adca8a-f0b1-44ae-a5f3-0a051fa90b61)
+
 Encontrarás un menú con las siguientes opciones:
   1. Ver el estado de ocupación de las habitaciones.
   2. Reservar una habitación.
@@ -52,15 +53,15 @@ Encontrarás un menú con las siguientes opciones:
 #### Ver el estado de ocupación de las habitaciones
 En este apartado se muestra en distintos bloques el estado de las habitaciones del hotel. Nos muestra el nombre del cliente, número de confirmación, fecha y tipo de habitación.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/dcb8b09f-ec08-44cb-8a26-aa28191b0c0a)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/6eb21ed8-7158-4d84-b45f-276006d5a005)
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/a9c3410c-9359-4239-aedc-c3f92035edd1)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/12c02a10-103e-4ec6-ac88-76774cb9a726)
 
 #### Reservar una habitación.
 Consiste en rellenar el nombre del cliente, así como su DNI sin letra y número de huespedes (1 o 2).
 También te da la opción de introducir la palabra salir para cancelar el proceso de la reserva.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/97bf064e-3810-4ed8-aeab-62c6058f2536)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/68e0d3f5-623f-4ffa-b8d1-b90187d546cc)
 
 #### Realizar checkout de una habitación
 Esta opción nos genera la factura con el precio total de la estancia en el hotel. Para ello nos pide que introduzcamos el nombre del cliente, número de confirmación (DNI) y la fecha de salida.
