@@ -1,7 +1,5 @@
-# FernanHotel
+# MANUAL DE USUARIO FERNANHOTEL
 Practica Obligatoria 2, sobre un hotel en Martos realizada por Antonio y Manuel José.
-
-#                       					  MANUAL DE USUARIO
 
 ## Índice
 1. [Comenzando](#comenzando)
@@ -10,11 +8,11 @@ Practica Obligatoria 2, sobre un hotel en Martos realizada por Antonio y Manuel 
 4. [Ejecucion](#ejecucion)
 5. [Colaboradores](#colaboradores)
 
-## Comenzando 
+## 🔰​ Comenzando 🔰​
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-### ✔ Requisitos Mínimos ✔
+## ✔ Requisitos Mínimos ✔
 
 _Debes tener instalado Windows 10 o Windows 11 (x64) y la siguiente versión de java
 **Java SE Development Kit 17.0.1**, para descargarla acceda al siguiente enlace_
