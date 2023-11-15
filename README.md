@@ -15,7 +15,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ## ✔ Requisitos Mínimos ✔
 
 _Debes tener instalado Windows 10 o Windows 11 (x64) y la siguiente versión de java
-**Java SE Development Kit 1.0.2**, para descargarla acceda al siguiente enlace_
+**Java SE Development Kit 19.0.2**, para descargarla acceda al siguiente enlace_
 
 ```
 https://download.oracle.com/java/19/archive/jdk-19.0.2_windows-x64_bin.exe
