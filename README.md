@@ -2,7 +2,7 @@
 Practica Obligatoria Tema 2. Programa de un hotel en Martos realizada por Antonio y Manuel José.
 
 ## Índice
-1. [Comenzando](#https://github.com/Antonio0416/FernanHotel2/blob/main/README.md#-requisitos-m%C3%ADnimos-)
+1. [Comenzando](#comenzando)
 2. [Requisitos Mínimos](#requisitos)
 3. [Instalación](#Instalación)
 4. [Ejecucion](#ejecucion)
