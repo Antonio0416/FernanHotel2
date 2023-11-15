@@ -1,5 +1,5 @@
 # MANUAL DE USUARIO FERNANHOTEL
-Practica Obligatoria 2, sobre un hotel en Martos realizada por Antonio y Manuel José.
+Practica Obligatoria Tema 2. Programa de un hotel en Martos realizada por Antonio y Manuel José.
 
 ## Índice
 1. [Comenzando](#comenzando)
@@ -46,4 +46,4 @@ _Al abrir la aplicación se encontrará con la siguiente pantalla:_
 ## 📝 Colaboradores 📝
 
 - Antonio Cámara Cámara - https://github.com/Antonio0416
-- Manuel José Liebana Vilches - 
+- Manuel José Liebana Vilches - https://github.com/ManuelJose05
