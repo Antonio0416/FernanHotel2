@@ -33,7 +33,7 @@ C:\Program Files\Java\jdk-17\bin
 
 _Una vez cumplas los requisitos, debes descargarte nuestro repositorio, pulsando en el siguiente botón:_
 
-imagen
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/b6399b71-c081-4f0a-ac00-c499e82810a0)
 
 _Ahora con el proyecto en tu equipo situandolo en el disco C: solo tendrás que descomprimirlo con permisos de administrador para pasar al siguiente apartado_
 
