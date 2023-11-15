@@ -4,7 +4,7 @@ Practica Obligatoria Tema 2. Programa de un hotel en Martos realizada por Antoni
 ## Índice
 1. [Comenzando](#comenzando)
 2. [Requisitos Mínimos](#requisitos)
-3. [Instalación](#instalacion)
+3. [Instalación](#Instalación)
 4. [Ejecucion](#ejecucion)
 5. [Colaboradores](#colaboradores)
 
