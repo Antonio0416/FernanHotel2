@@ -67,18 +67,18 @@ También te da la opción de introducir la palabra salir para cancelar el proces
 Esta opción nos genera la factura con el precio total de la estancia en el hotel. Para ello nos pide que introduzcamos el nombre del cliente, número de confirmación (DNI) y la fecha de salida.
 También te da la opción de introducir la palabra salir para cancelar el proceso de la reserva.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/a9506052-59bc-4bb8-8080-56366fb5f27c)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/7d5324fe-e796-4179-95e4-98dbda435876)
 
 Una vez generada la factura, el cliente deberá introducir la cantidad del importe para realizar el pago. El programa le calcula el dinero restante y muestra por pantalla la menor cantidad posible y tipo de billetes/monedas que se le devolverá.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/6c329f28-6f0e-4dc9-9a22-e1975c0b30a1)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/b9a99194-10e8-43e1-81c1-21b8f7ea1d95)
 
 #### Menú de administrador
 Al seleccionar está opción, nos llevará a un inicio de sesión para el menú de administrador. El programa nos pedirá el usuario y contraseña de administrador.
 Una vez introducido dichos datos, nos mostrará otro pequeño menú con distintas opciones que podremos ejectuar como administrador.
 También te da la opción de introducir la palabra salir para cancelar el proceso de la reserva.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/7a061a15-dcf4-4708-923b-19dac6ecca8c)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/e3618e14-ef17-4b17-9db5-ad2ccc484e40)
 
 Encontrarás un menú con las siguientes opciones:
   1. Consultar los ingresos totales y número de reseravas finalizadas
@@ -89,22 +89,22 @@ Encontrarás un menú con las siguientes opciones:
 #### Consultar los ingresos totales y número de reseravas finalizadas
 Nos muestra los ingresos totales del hotel así como el número de reservas finalizadas.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/aedf82eb-2c48-428c-ad47-29a092c5411b)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/4e001268-d058-4be8-b60d-4744ff32fb25)
 
 #### Consultar las monedas restantes para el cambio
 Muestra por pantalla la cantidad y tipos de billetes/monedas del hotel disponibles para devolver al realizar un checkout.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/a13ca983-568d-44da-a72a-6722decd1ca2)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/bdf60850-9e03-468d-b0df-34a431de181d)
 
 #### Volver al menú principal
 Esta opción nos permite salir del menú de administrador y volver al menú principal.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/9025d28b-4798-4d25-978b-e454212702fe)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/94d8bb13-653a-42b8-b1a0-adb04c6c3c5b)
 
 #### Apagar el software
 Esta última opción apaga por completo el software del hotel, es decir, apaga el programa por completo. Nos preguntará que confirmemos si deseamos apagar el sistema, en caso de no desear dicha opción te llevará de nuevo al menú de administrador.
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/150932456/c6a03a3d-a4a0-45b7-89ba-f11d81a8a572)
+![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/107de544-cf32-4e82-9a39-b537ecf7dbb1)
 
 ## 📝 Colaboradores 📝
 
